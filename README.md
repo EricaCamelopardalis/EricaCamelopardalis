@@ -2,6 +2,6 @@
 
 # Greetings!
 
-## <p style="text-align: center; font-weight: bold;">Contact me! I love mail!</p>
+## <center>Contact me! I love mail!</center>
 
 ---
