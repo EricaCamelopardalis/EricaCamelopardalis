@@ -1,2 +1,1 @@
-# Greetings!
-This page is under construction.
+![Clara Smith Banner](GitHub_Banner.png)
