@@ -25,8 +25,9 @@ Updated February 20th, 2026
 
 - I'm finishing up my time in undergrad, and I'm currently working on a **customer attrition machine learning algorithm** in collaboration with a certain bank. It's not quite an internship-- it's a practicum that's part of our graduation requirements. We're nearing the end stages as I approach graduation, but I'm super proud of the work and effort I've invested into our results. I'm dying to talk about it, haha. 
 
-- When I'm not working, you can often find me creating my own creative cosmetic looks. I genuinely enjoy the zen of creating looks-- so much so that I always wake an hour early to do one (and my, I'm awake once I'm done). You can find some of that work on my Instagram, but I really hope to expand my horizons into product photography as I master light better. Maybe by the time you're reading this, I've posted some interesting shots? 
+- When I'm not working, you can often find me creating my own creative cosmetic looks. I genuinely enjoy the zen of creating looks-- so much so that I always wake an hour early to do one (and my, I'm awake once I'm done). You can find some of that work on my Instagram, but I really hope to expand my horizons into product photography as I master light better. Maybe by the time you're reading this, I've posted some interesting shots?
 
+PS: If you're reading this, send me a cool textbook recommendation. I strongly prefer to learn by reading, and I love collecting them!
 <h2>Skills</h2>
 
 ###### Languages & Syntax:
