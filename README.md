@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/clara-smith-uark/">LinkedIn •</a>
 <a href="https://www.instagram.com/thatisericaheath/">Instagram •</a>
 cjs044@uark.edu •
+clarajs2017@outlook.com •
 Updated February 20th, 2026
 </p>
 
@@ -27,7 +28,10 @@ Updated February 20th, 2026
 
 - When I'm not working, you can often find me creating my own creative cosmetic looks. I genuinely enjoy the zen of creating looks-- so much so that I always wake an hour early to do one (and my, I'm awake once I'm done). You can find some of that work on my Instagram, but I really hope to expand my horizons into product photography as I master light better. Maybe by the time you're reading this, I've posted some interesting shots?
 
-PS: If you're reading this, send me a cool textbook recommendation. I strongly prefer to learn by reading, and I love collecting them!
+PS: If you're reading this, send me a cool textbook recommendation. I strongly prefer to learn by reading, and I love collecting them! 
+
+Don't hesitate to send an email or message about anything at all. I'm chatty, haha.
+
 <h2>Skills</h2>
 
 ###### Languages & Syntax:
